@@ -25,6 +25,9 @@ And Veltrix will output the extracted phone numbers and emails.
 * Python 3.x
 * `pyperclip` (for clipboard access)
 * `re` (standard regex module)
+* `phonenumbers` (to identify region)
+* `colorama` (for title)
+* `pyfiglet` (for rich text)
 
 ### 📈 Ideal For
 
