@@ -34,4 +34,3 @@ And Veltrix will output the extracted phone numbers and emails.
 * Journalists, researchers, data miners
 * Developers parsing user data
 * Anyone needing to extract contact info in bulk
-* 
